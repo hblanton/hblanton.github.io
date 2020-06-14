@@ -10,9 +10,4 @@ citation: 'Song, Weilian, et al. "Remote estimation of free-flow speeds." IGARSS
 '
 ---
 
-We estimate road free-flow speed directly from imagery.
-
-[Download paper here](https://arxiv.org/pdf/1906.10104.pdf)
-
-Song, Weilian, et al. "Remote estimation of free-flow speeds." IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019.
 
