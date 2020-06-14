@@ -1,14 +1,16 @@
 ---
-title: "Weakly Supervised Fusion of Multiple Overhead Images"
+title: "Learning to map nearly anything"
 collection: publications
-permalink: /publication/weakly-supervised-fusion
-excerpt: 'Fuse multiple images without labels'
-date: 2019-06-12
-venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
-paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.html'
-citation: 'Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0'
+permalink: /publication/map-anything
+excerpt: 'We jointly learn a variety of distributions over objects and scene categories from overhead images using paired ground level image.'
+date: 2019
+venue: 'IEEE International Geoscience and Remote Sensing Symposium'
+paperurl: 'https://arxiv.org/pdf/1909.06928.pdf'
+citation: 'MSalem, Tawfiq, et al. "Learning to map nearly anything." IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019.'
 ---
 
-[Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)
+We jointly learn a variety of distributions over objects and scene categories from overhead images using paired ground level image.
 
-Recommended citation: Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0
+[Download paper here](https://arxiv.org/pdf/1909.06928.pdf)
+
+Salem, Tawfiq, et al. "Learning to map nearly anything." IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019.
