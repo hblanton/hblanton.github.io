@@ -8,6 +8,3 @@ venue: 'IEEE International Geoscience and Remote Sensing Symposium'
 
 citation: 'Hunter Blanton, Sean Grate, Nathan Jacobs. "Surface Modeling for Airborne Lidar", IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020.'
 ---
-We use lidar point and scan ray data to learn a lidar surface model that can be used to estimate novel points from single scans.
-
-Hunter Blanton, Sean Grate, Nathan Jacobs. "Surface Modeling for Airborne Lidar", IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020.
