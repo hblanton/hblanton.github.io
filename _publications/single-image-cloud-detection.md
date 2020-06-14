@@ -1,14 +1,14 @@
 ---
-title: "Weakly Supervised Fusion of Multiple Overhead Images"
+title: "Single Image Cloud Detection via Multi-Image Fusion"
 collection: publications
-permalink: /publication/weakly-supervised-fusion
-excerpt: 'Fuse multiple images without labels'
-date: 2019-06-12
-venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
-paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.html'
-citation: 'Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0'
+permalink: /publication/single-image-cloud-detection
+excerpt: 'We use a a mutli-image fusion training approach and adapt it to single image cloud detection.'
+date: 2020-09-26
+venue: 'IEEE International Geoscience and Remote Sensing Symposium'
+
+citation: 'Scott Workman, M. Usman Rafique, Hunter Blanton, Connor Greenwell, Nathan Jacobs. "Single Image Cloud Detection via Multi-Image Fusion", IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020.'
 ---
 
-[Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)
+We use a a mutli-image fusion training approach and adapt it to single image cloud detection.
 
-Recommended citation: Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0
+Scott Workman, M. Usman Rafique, Hunter Blanton, Connor Greenwell, Nathan Jacobs. "Single Image Cloud Detection via Multi-Image Fusion", IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020.
