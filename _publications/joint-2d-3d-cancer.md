@@ -8,8 +8,4 @@ venue: 'IEEE International Conference on Bioinformatics and Biomedicine'
 paperurl: 'https://arxiv.org/pdf/2002.12392.pdf'
 citation: 'Liang, Gongbo, et al. "Joint 2D-3D Breast Cancer Classification." 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019.'
 ---
-We use both 2D and 3D imaging modalities for breast cancer classification.
 
-[Download paper here](https://arxiv.org/pdf/2002.12392.pdf)
-
-Recommended citation: Liang, Gongbo, et al. "Joint 2D-3D Breast Cancer Classification." 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019.
