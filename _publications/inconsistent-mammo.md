@@ -1,14 +1,12 @@
 ---
-title: "Weakly Supervised Fusion of Multiple Overhead Images"
+title: "Inconsistent Performance of Deep Learning Models on Mammogram Classification"
 collection: publications
-permalink: /publication/weakly-supervised-fusion
-excerpt: 'Fuse multiple images without labels'
-date: 2019-06-12
-venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
+permalink: /publication/inconsistent-mammo
+excerpt: 'We show that various deep learning models exhibit inconsistent performance between data sources.'
+date: 2020
+venue: 'Journal of the American College of Radiology'
 paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.html'
-citation: 'Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0'
+citation: 'Wang, Xiaoqin, et al. "Inconsistent Performance of Deep Learning Models on Mammogram Classification." Journal of the American College of Radiology (2020).'
 ---
 
-[Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)
-
-Recommended citation: Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0
+Recommended citation: Wang, Xiaoqin, et al. "Inconsistent Performance of Deep Learning Models on Mammogram Classification." Journal of the American College of Radiology (2020).
