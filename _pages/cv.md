@@ -26,11 +26,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[comment]: #Teaching
-[comment]: #======
-[comment]: #  <ul>{% for post in site.teaching %}
-[comment]: #   {% include archive-single-cv.html %}
-[comment]: #  {% endfor %}</ul>
   
 Service and leadership
 ======
