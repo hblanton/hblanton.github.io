@@ -9,6 +9,3 @@ venue: 'IEEE International Geoscience and Remote Sensing Symposium'
 citation: 'Scott Workman, M. Usman Rafique, Hunter Blanton, Connor Greenwell, Nathan Jacobs. "Single Image Cloud Detection via Multi-Image Fusion", IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020.'
 ---
 
-We use a a mutli-image fusion training approach and adapt it to single image cloud detection.
-
-Scott Workman, M. Usman Rafique, Hunter Blanton, Connor Greenwell, Nathan Jacobs. "Single Image Cloud Detection via Multi-Image Fusion", IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020.
