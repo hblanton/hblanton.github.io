@@ -1,14 +1,13 @@
 ---
-title: "Weakly Supervised Fusion of Multiple Overhead Images"
+title: "Joint 2D-3D Breast Cancer Classification"
 collection: publications
-permalink: /publication/weakly-supervised-fusion
-excerpt: 'Fuse multiple images without labels'
-date: 2019-06-12
-venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
-paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.html'
-citation: 'Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0'
+permalink: /publication/joint-2d-3d-cancer
+excerpt: 'We use both 2D and 3D imaging modalities for breast cancer classification.'
+date: 2019
+venue: 'IEEE International Conference on Bioinformatics and Biomedicine'
+paperurl: 'https://arxiv.org/pdf/2002.12392.pdf'
+citation: 'Liang, Gongbo, et al. "Joint 2D-3D Breast Cancer Classification." 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019.'
 ---
+We use both 2D and 3D imaging modalities for breast cancer classification.
 
-[Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)
-
-Recommended citation: Muhammad Usman Rafique, Hunter Blanton, Nathan Jacobs; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0
+Recommended citation: Liang, Gongbo, et al. "Joint 2D-3D Breast Cancer Classification." 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019.
