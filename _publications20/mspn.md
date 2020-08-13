@@ -1,6 +1,6 @@
 ---
 title: "Extending Absolute Pose Regression to Multiple Scenes"
-collection: publications
+collection: publications20
 permalink: /publication/mspn
 excerpt: 'We extend PoseNet for localization in several scenes using a single CNN.'
 date: 2020-06-14
