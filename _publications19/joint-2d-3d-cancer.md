@@ -1,6 +1,6 @@
 ---
 title: "Joint 2D-3D Breast Cancer Classification"
-collection: publications
+collection: publications19
 permalink: /publication/joint-2d-3d-cancer
 excerpt: 'We use both 2D and 3D imaging modalities for breast cancer classification.'
 date: 2019-11-18
