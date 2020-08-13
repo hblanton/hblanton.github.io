@@ -1,6 +1,6 @@
 ---
 title: "RasterNet: Modeling Free-Flow Speed using LiDAR and Overhead Imagery"
-collection: publications
+collection: publications20
 permalink: /publication/rasternet
 excerpt: 'Free-flow speed estimation using combined features from point clouds and overhead imagery.'
 date: 2020-06-14
