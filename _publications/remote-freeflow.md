@@ -1,7 +1,7 @@
 ---
 title: "Remote estimation of free-flow speeds"
-collection: publications
-permalink: /publication/remote-freeflow
+collection: publications19
+permalink: /publication19/remote-freeflow
 excerpt: 'We estimate road free-flow speed directly from imagery.'
 date: 2019-07-28
 venue: 'IEEE International Geoscience and Remote Sensing Symposium'
