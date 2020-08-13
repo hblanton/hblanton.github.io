@@ -22,7 +22,10 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications19 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+   <ul>{% for post in site.publications20 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
