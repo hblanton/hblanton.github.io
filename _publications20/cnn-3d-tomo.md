@@ -1,6 +1,6 @@
 ---
 title: "Convolutional Neural Networks for 3D Digital Breast Tomosynthesis Classification"
-collection: publications
+collection: publications20
 permalink: /publication/cnn-3d-tomo
 excerpt: 'We use 2D CNNs for breast cancer classification in 3D DBT images.'
 date: 2019-11-18
