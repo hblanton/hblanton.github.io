@@ -1,6 +1,6 @@
 ---
 title: "Weakly Supervised Fusion of Multiple Overhead Images"
-collection: publications
+collection: publications19
 permalink: /publication/weakly-supervised-fusion
 excerpt: 'Fuse multiple images without labels'
 date: 2019-06-12
