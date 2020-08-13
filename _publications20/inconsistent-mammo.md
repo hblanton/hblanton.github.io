@@ -1,6 +1,6 @@
 ---
 title: "Inconsistent Performance of Deep Learning Models on Mammogram Classification"
-collection: publications
+collection: publications20
 permalink: /publication/inconsistent-mammo
 excerpt: 'We show that various deep learning models exhibit inconsistent performance between data sources.'
 date: 2020-02-14
