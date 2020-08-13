@@ -1,6 +1,6 @@
 ---
 title: "Single Image Cloud Detection via Multi-Image Fusion"
-collection: publications
+collection: publications20
 permalink: /publication/single-image-cloud-detection
 excerpt: 'We use a a mutli-image fusion training approach and adapt it to single image cloud detection.'
 date: 2020-09-26
