@@ -227,7 +227,15 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publications20
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: publications19
     values:
       layout: single
       author_profile: true
