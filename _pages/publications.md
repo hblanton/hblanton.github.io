@@ -19,3 +19,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% include archive-single.html %}
 {% endfor %}
 
+# 2019
+{% for post in site.publications19 reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
