@@ -1,7 +1,7 @@
 ---
 title: "Generative Appearance Flow: A Hybrid Approach for Outdoor View Synthesis"
-collection: publications
-permalink: /publication/gaf_bmvc
+collection: publications20
+permalink: /publication20/gaf_bmvc
 excerpt: 'We use spatially paired streetview panoramas to train a network single image view synthesis.'
 date: 2020-09-07
 venue: 'British Machine Vision Conference'
