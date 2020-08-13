@@ -1,6 +1,6 @@
 ---
 title: "Remote estimation of free-flow speeds"
-collection: publications
+collection: publications19
 permalink: /publication/remote-freeflow
 excerpt: 'We estimate road free-flow speed directly from imagery.'
 date: 2019-07-28
