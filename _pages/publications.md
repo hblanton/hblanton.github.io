@@ -10,11 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 {% include base_path %}
-# 2020
-{% for post in site.publications20 reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-# 2019
-{% for post in site.publications19 reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
