@@ -1,6 +1,6 @@
 ---
 title: "Learning to map nearly anything"
-collection: publications
+collection: publications19
 permalink: /publication/map-anything
 excerpt: 'We jointly learn a variety of distributions over objects and scene categories from overhead images using paired ground level image.'
 date: 2019-7-28
