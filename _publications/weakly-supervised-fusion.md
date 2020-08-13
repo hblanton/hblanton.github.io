@@ -1,7 +1,7 @@
 ---
 title: "Weakly Supervised Fusion of Multiple Overhead Images"
-collection: publications
-permalink: /publication/weakly-supervised-fusion
+collection: publications19
+permalink: /publication19/weakly-supervised-fusion
 excerpt: 'Fuse multiple images without labels'
 date: 2019-06-12
 venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
