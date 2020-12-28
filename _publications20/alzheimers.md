@@ -1,5 +1,5 @@
 ---
-title: "Generative Appearance Flow 2: A Hybrid Approach for Outdoor View Synthesis"
+title: "Dynamic Image for 3D MRI image Alzheimer’s Disease classification"
 collection: publications20
 permalink: /publication/alzheimers
 excerpt: 'We use spatially paired streetview panoramas to train a network single image view synthesis.'
