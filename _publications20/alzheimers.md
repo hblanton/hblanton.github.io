@@ -1,10 +1,10 @@
 ---
-title: "Dynamic Image for 3D MRI image Alzheimer’s Disease classification"
+title: "Generative Appearance Flow 2: A Hybrid Approach for Outdoor View Synthesis"
 collection: publications20
 permalink: /publication/alzheimers
-excerpt: 'Construct dynamic images from 3D MRIs of the brain to use with 2D CNNs for Alshiemer's classification.'
-date: 2020-08-23
-venue: 'ECCV 2020 Workshop on BioImage Computing'
-paperurl: https://openreview.net/pdf?id=HdNVXBdk05
-citation: 'Xin Xing, Gongbo Liang, Hunter Blanton, M. Usman Rafique, Chris Wang, Ai-Ling Lin, Nathan Jacobs. "Dynamic Image for 3D MRI image Alzheimer’s Disease classification." ECCV Workshop on BioImage Computing. 2020.'
+excerpt: 'We use spatially paired streetview panoramas to train a network single image view synthesis.'
+date: 2020-09-07
+venue: 'British Machine Vision Conference'
+paperurl: 
+citation: 'Muhammad Usman Rafique, Hunter Blanton, Noah Snavely, Nathan Jacobs. "Generative Appearance Flow: A Hybrid Approach for Outdoor View Synthesis." British Machine Vision Conference (BMVC). 2020.'
 ---
