@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<meta http-equiv = "refresh" content = "url = https://hblanton.github.io/files/CV.pdf" />
+<meta http-equiv = "REFRESH" content = "0;url=https://hblanton.github.io/files/CV.pdf" />
 
