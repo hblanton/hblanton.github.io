@@ -9,3 +9,5 @@ redirect: /files/CV.pdf
 ---
 
 
+
+<meta HTTP-EQUIV="REFRESH" content="0;url=http://www.hblanton.github.io/files/CV.pdf">
