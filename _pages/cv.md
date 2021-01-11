@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to: files/CV.pdf
 ---
 
-<meta http-equiv = "REFRESH" content = "0;url=https://hblanton.github.io/files/CV.pdf" />
 
