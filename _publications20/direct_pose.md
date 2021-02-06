@@ -6,5 +6,5 @@ excerpt: 'We jointly predict depth and scene coordinates directly from a single 
 date: 2020-12-22
 venue: 'arxiv preprint'
 paperurl: https://arxiv.org/abs/2012.12360
-citation: 'Hunter Blanton, Scott Workman, Nathan Jacobs. "Generative Appearance Flow: A Hybrid Approach for Outdoor View Synthesis." arxiv. 2020.'
+citation: 'Hunter Blanton, Scott Workman, Nathan Jacobs. "A Structure-Aware Method for Direct Pose Estimation." arxiv. 2020.'
 ---
